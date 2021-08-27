@@ -1,2 +1,3 @@
 $ cd Blockchain
 $ git init
+$ echo "# my first git repo" >> README.md
